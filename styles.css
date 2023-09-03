@@ -39,15 +39,15 @@ nav {
   }
 
   .features {
-    width: 30% !important;
-    height: 400px !important;
+    width: 60% !important;
+    height: 220px !important;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
   }
 
   .CTA-form-box {
-    margin-top: 8rem;
+    margin-top: 20rem;
   }
   .nav-item {
     margin-bottom: -1rem;
@@ -61,6 +61,14 @@ nav {
   .announce-div {
     margin-top: 14rem;
   }
+
+  .course-div{
+    width:70%!important;
+    flex-wrap:wrap!important;
+
+  }
+
+  
 }
 
 .navbar-brand {
